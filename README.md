@@ -1,5 +1,5 @@
 # test-repo
-This is a test-repo!  
+This is a test-repo! :smiley:  
 Sample text
 ## Contents
 * [Section 1](#section-1)
@@ -9,7 +9,7 @@ New Line
 line1  
 line2  
 [Another repo](https://github.com/nok911/git-exercise)  
-![Link to image](https://www.google.com/search?q=pasta&sxsrf=ALiCzsbQ2DunTne6DC>)
+![Link to image](https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Spinach-Tomato-Pasta-bowl.jpg)
 ## Section2
 ```this is a snippet```  
 ```python
