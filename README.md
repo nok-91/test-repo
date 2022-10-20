@@ -1,7 +1,7 @@
 # test-repo
 This is a test-repo!  
 Sample text
-##Contents
+## Contents
 * [Section 1](#section-1)
 * [Section 2](#section-2)
 ## Section 1
