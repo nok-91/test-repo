@@ -8,6 +8,7 @@ Sample text
 New Line  
 line1  
 line2  
-[Another repo](https://github.com/nok911/git-exercise)
+[Another repo](https://github.com/nok911/git-exercise)  
 ![Link to image]((https://www.google.com/search?q=pasta&sxsrf=ALiCzsbQ2DunTne6DC>)
 ## Section2
+'''this is a snippet'''
